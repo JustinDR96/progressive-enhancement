@@ -132,6 +132,3 @@ th {
 .sect2 {
   display: flex;
 }
-.sect2 > section > img {
-  width: 500px;
-}
